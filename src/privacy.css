@@ -1,0 +1,2 @@
+.privacy-state-legend{display:grid;grid-template-columns:1fr 1fr;gap:8px 10px;border-top:1px solid #29272e;padding:10px 0 4px}.privacy-state-legend span{display:flex;flex-direction:column;gap:3px;color:#77737f;font-size:7px;line-height:1.4}.privacy-state-legend b{font:8px var(--mono)}
+@media(max-width:760px){.privacy-state-legend{gap:7px}}
